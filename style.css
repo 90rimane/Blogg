@@ -62,9 +62,26 @@ color: #daa890;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
 }
+.mainContent-archive{
+    width: 100%;
+}
 .content {
     width: 75%;
     float: left;
+}
+.content-archive{
+    width: 100%;
+}
+.content img{
+    width: 300px;
+    height: 275px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px; 
 }
 .topContent{
     background-color: #fff;
