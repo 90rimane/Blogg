@@ -67,9 +67,9 @@ header img{
     -webkit-border-radius: 5px;
 }
 .mainContent img{
-    width: 95%;
+    width: 78%;
     height: 250px;
-    margin: 2%;
+    margin: 2% 0 0 10%;
     border-radius: 5px;
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
@@ -84,6 +84,8 @@ header img{
 }
 .content-archive{
     width: 100%;
+    letter-spacing: 1px;
+    line-height: 2;
 }
 
 .content img{
