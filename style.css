@@ -209,6 +209,10 @@ header img{
     .mainContent img{
         display: none;
     }
+    .mainContent-archive{
+        width: 95%;
+        margin: 2%;
+    }
     .content {
         width: 100%;
         float: left;
